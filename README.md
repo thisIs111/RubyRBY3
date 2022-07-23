@@ -9,3 +9,4 @@ Materi Pelatihan:
  * HTML & CSS Dojo I
  * HTML & CSS Dojo II
  * Tutorial Setup Web Application in Local Environment
+ * Ruby I
