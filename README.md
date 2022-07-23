@@ -5,3 +5,4 @@ Materi Pelatihan:
 
  * HTML & CSS I
  * HTML & CSS II
+ * Reading & Tutorial Material
