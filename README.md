@@ -4,3 +4,4 @@ Pelatihan Ruby on Rails Web Development Path akan mempelajari teori dan praktik 
 Materi Pelatihan:
 
  * HTML & CSS I
+ * HTML & CSS II
