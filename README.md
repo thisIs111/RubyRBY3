@@ -10,3 +10,4 @@ Materi Pelatihan:
  * HTML & CSS Dojo II
  * Tutorial Setup Web Application in Local Environment
  * Ruby I
+ * Ruby II
