@@ -8,3 +8,4 @@ Materi Pelatihan:
  * Reading & Tutorial Material
  * HTML & CSS Dojo I
  * HTML & CSS Dojo II
+ * Tutorial Setup Web Application in Local Environment
