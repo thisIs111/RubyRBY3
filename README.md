@@ -7,3 +7,4 @@ Materi Pelatihan:
  * HTML & CSS II
  * Reading & Tutorial Material
  * HTML & CSS Dojo I
+ * HTML & CSS Dojo II
