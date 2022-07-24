@@ -13,3 +13,4 @@ Materi Pelatihan:
  * Ruby II
  * Ruby III
  * Ruby IV
+ * Ruby V
