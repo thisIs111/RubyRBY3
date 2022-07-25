@@ -17,3 +17,4 @@ Materi Pelatihan:
  * Ruby on Rails I
  * Ruby on Rails II
  * Ruby on Rails III
+ * Ruby on Rails Dojo I
