@@ -14,3 +14,4 @@ Materi Pelatihan:
  * Ruby III
  * Ruby IV
  * Ruby V
+ * Ruby on Rails I
